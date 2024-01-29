@@ -4,7 +4,7 @@ createApp ({
     data() {
       return {
         text: 'Hello world',
-        image: 'img/logo.png',
+        imageURL: "/img/logo.png",
       
       };
     },
